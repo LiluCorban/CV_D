@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+    background-color: black;
+    padding: 3%;
+}
+.video-block{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+}
